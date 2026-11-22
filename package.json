@@ -22,6 +22,11 @@
     "pet-phone"
   ],
   "main": "./src/index.mjs",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
   "exports": {
     ".": "./src/index.mjs",
     "./package.json": "./package.json"
