@@ -1,0 +1,13 @@
+{
+  "name": "pet-phone-checkpoint",
+  "description": "任务中途，停一下，听一下——从 pet-phone 拆出的独立检查点组件。只挂 post-execute，外部数据源，过期自灭，失败静默。",
+  "version": "0.1.0",
+  "entry": {
+    "name": "pet-phone-checkpoint",
+    "inject": []
+  },
+  "contributes": {
+    "tools": [],
+    "skills": []
+  }
+}

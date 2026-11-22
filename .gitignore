@@ -1,0 +1,3 @@
+# npm pack 产物不进版本库（用 npm pack --pack-destination 打到库外）
+*.tgz
+node_modules/
