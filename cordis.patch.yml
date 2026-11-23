@@ -2,6 +2,6 @@
 # 与 dsh.plugin.json 是一体——单独删掉其一，插件整个不加载。
 - insert:
     - id: pet-phone-checkpoint
-      name: '@ying/pet-phone-checkpoint'
+      name: 'pet-phone-checkpoint'
       config:
         level: default

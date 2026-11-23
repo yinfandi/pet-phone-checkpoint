@@ -1,4 +1,4 @@
-# SPEC · @ying/pet-phone-checkpoint v0.1
+# SPEC · pet-phone-checkpoint v0.1
 
 > 从 `ying-pet-phone` 2.0.0 拆出的独立组件。v0.1 只做一件事：**任务中途，停一下，听一下**——工具返回后，把外部未读消息作为文本块追加进结果，不驱动会话、不内建通道。
 >

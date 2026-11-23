@@ -1,5 +1,5 @@
 /**
- * @ying/pet-phone-checkpoint —— 从 pet-phone 拆出的独立检查点组件。
+ * pet-phone-checkpoint —— 从 pet-phone 拆出的独立检查点组件。
  *
  * v0.1 只做一件事：工具返回后（tools/post-execute），把外部未读消息作为文本块
  * 追加进结果——"任务中途，停一下，听一下"。不驱动会话、不内建通道、无铃无窗无通讯录。

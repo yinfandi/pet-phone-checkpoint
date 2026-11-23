@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "name": "@ying/pet-phone-checkpoint",
+  "name": "pet-phone-checkpoint",
   "version": "0.1.0",
-  "commit": "5ab8cf39714eec9d28a90fb9161f153bee715ffe",
-  "productDigest": "985312eb626fd9d1e69174d7a726fb7f8041151b968766d27e3a58d4502f7561"
+  "commit": "a5758525db0699ef4b9021c5726125018684f270",
+  "productDigest": "efb162c93a6637849c4e1735172da6b81f8a55d61ea69baacb3ff4c1bb871004"
 }
