@@ -4,7 +4,11 @@
   "description": "从 pet-phone 拆出的独立检查点组件：任务中途，停一下，听一下。工具返回后把外部未读消息追加进结果——只挂 post-execute，数据源外部，过期自灭，失败静默。",
   "type": "module",
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yinfandi/pet-phone-checkpoint.git"
